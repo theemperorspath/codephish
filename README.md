@@ -8,11 +8,6 @@
 </p>
 
 <p align="center">
-  <b>Persistent OAuth Device Code Phishing Framework</b><br>
-  <i>One email. Infinite codes. MFA bypassed.</i>
-</p>
-
-<p align="center">
   <i>For authorised security testing only</i>
 </p>
 
