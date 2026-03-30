@@ -30,6 +30,9 @@
 
 CodePhisher exploits Microsoft's OAuth device code authentication flow to capture access tokens that **bypass MFA entirely**. It chains domain spoofing with device code phishing to compromise Microsoft Entra ID / M365 accounts from an external attacker perspective.
 
+![CodePhisher](https://github.com/user-attachments/assets/76ec8386-1402-411d-bdef-cce9463c6fec)
+
+
 ### The attack chain
 
 1. **Generate** an OAuth device code via Microsoft's legitimate API
