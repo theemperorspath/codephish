@@ -1,4 +1,4 @@
-<h1 align="center">CodePhisher: OAuth Device Code Phishing Framework with Dynamic Image Based Delivery</h1>
+<h1 align="center">CodePhisher: The Persistant OAuth Device Code Phishing Framework</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
