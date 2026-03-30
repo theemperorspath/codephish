@@ -19,7 +19,8 @@ WRAITH exploits Microsoft's OAuth device code authentication flow to capture acc
 
 Unlike traditional device code phishing, WRAITH serves a **dynamic image** that auto-refreshes with new codes — the phishing email never goes stale. One email, persistent access, zero resending.
 
-![WRAITH](https://github.com/user-attachments/assets/76ec8386-1402-411d-bdef-cce9463c6fec)
+![Wraith](https://github.com/user-attachments/assets/076e1206-839a-40fb-85d1-8bdbe47fa029)
+
 
 ---
 
